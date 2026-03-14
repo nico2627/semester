@@ -1,0 +1,11 @@
+Semester Work,Grade
+Paper Presentation,58
+Case Study,70
+Assignment,72
+Practical,60
+Final Exam,60
+Final Grade,
+
+
+
+=AVERAGE(B2:B6)
